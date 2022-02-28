@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.289
+
+### Patch Changes
+
+- Extend user tsconfig from generated .svelte-kit/tsconfig.json ([#4118](https://github.com/sveltejs/kit/pull/4118))
+
 ## 1.0.0-next.288
 
 ### Patch Changes
